@@ -1,3 +1,2 @@
 # Todo-List
-Simple Todo List app
-https://akshrj.github.io/Todo-List/
+A simple Todo List web app.
